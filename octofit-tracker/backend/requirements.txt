@@ -1,0 +1,5 @@
+# Requirements for OctoFit Tracker backend
+# Based on monafit-tracker, likely using Django and related packages
+
+django
+djangorestframework
